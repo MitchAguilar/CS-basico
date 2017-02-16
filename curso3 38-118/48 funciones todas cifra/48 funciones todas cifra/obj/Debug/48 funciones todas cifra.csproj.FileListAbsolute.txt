@@ -1,0 +1,6 @@
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\48 funciones todas cifra\48 funciones todas cifra\bin\Debug\48 funciones todas cifra.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\48 funciones todas cifra\48 funciones todas cifra\bin\Debug\48 funciones todas cifra.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\48 funciones todas cifra\48 funciones todas cifra\bin\Debug\48 funciones todas cifra.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\48 funciones todas cifra\48 funciones todas cifra\obj\Debug\48 funciones todas cifra.csprojResolveAssemblyReference.cache
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\48 funciones todas cifra\48 funciones todas cifra\obj\Debug\48 funciones todas cifra.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\48 funciones todas cifra\48 funciones todas cifra\obj\Debug\48 funciones todas cifra.pdb

@@ -1,0 +1,3 @@
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\42 funciones suma de cif\42 funciones suma de cif\bin\Debug\42 funciones suma de cif.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\42 funciones suma de cif\42 funciones suma de cif\obj\Debug\42 funciones suma de cif.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\42 funciones suma de cif\42 funciones suma de cif\obj\Debug\42 funciones suma de cif.pdb

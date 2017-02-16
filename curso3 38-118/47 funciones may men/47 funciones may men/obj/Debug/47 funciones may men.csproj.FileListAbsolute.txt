@@ -1,0 +1,6 @@
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones may men\47 funciones may men\bin\Debug\47 funciones may men.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones may men\47 funciones may men\bin\Debug\47 funciones may men.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones may men\47 funciones may men\bin\Debug\47 funciones may men.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones may men\47 funciones may men\obj\Debug\47 funciones may men.csprojResolveAssemblyReference.cache
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones may men\47 funciones may men\obj\Debug\47 funciones may men.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones may men\47 funciones may men\obj\Debug\47 funciones may men.pdb

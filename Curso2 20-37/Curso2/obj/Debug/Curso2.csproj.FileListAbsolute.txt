@@ -1,0 +1,7 @@
+c:\users\master madi\documents\visual studio 2015\Projects\Curso2\Curso2\bin\Debug\Curso2.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\Curso2 20-39\Curso2\bin\Debug\Curso2.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\Curso2 20-39\Curso2\bin\Debug\Curso2.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\Curso2 20-39\Curso2\bin\Debug\Curso2.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\Curso2 20-39\Curso2\obj\Debug\Curso2.csprojResolveAssemblyReference.cache
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\Curso2 20-39\Curso2\obj\Debug\Curso2.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\Curso2 20-39\Curso2\obj\Debug\Curso2.pdb

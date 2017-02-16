@@ -1,0 +1,5 @@
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\44 funciones ult pen ant\44 funciones ult pen ant\bin\Debug\44 funciones ult pen ant.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\44 funciones ult pen ant\44 funciones ult pen ant\bin\Debug\44 funciones ult pen ant.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\44 funciones ult pen ant\44 funciones ult pen ant\bin\Debug\44 funciones ult pen ant.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\44 funciones ult pen ant\44 funciones ult pen ant\obj\Debug\44 funciones ult pen ant.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\44 funciones ult pen ant\44 funciones ult pen ant\obj\Debug\44 funciones ult pen ant.pdb

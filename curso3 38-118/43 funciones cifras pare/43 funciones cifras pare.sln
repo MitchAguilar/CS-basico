@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43 funciones cifras pare", "43 funciones cifras pare\43 funciones cifras pare.csproj", "{0CF31476-B013-4D3E-B974-24E14A35B6DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF31476-B013-4D3E-B974-24E14A35B6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF31476-B013-4D3E-B974-24E14A35B6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF31476-B013-4D3E-B974-24E14A35B6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF31476-B013-4D3E-B974-24E14A35B6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

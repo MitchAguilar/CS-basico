@@ -1,0 +1,6 @@
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\PruebasStefany\PruebasStefany\bin\Debug\PruebasStefany.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\PruebasStefany\PruebasStefany\bin\Debug\PruebasStefany.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\PruebasStefany\PruebasStefany\bin\Debug\PruebasStefany.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\PruebasStefany\PruebasStefany\obj\Debug\PruebasStefany.csprojResolveAssemblyReference.cache
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\PruebasStefany\PruebasStefany\obj\Debug\PruebasStefany.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\PruebasStefany\PruebasStefany\obj\Debug\PruebasStefany.pdb

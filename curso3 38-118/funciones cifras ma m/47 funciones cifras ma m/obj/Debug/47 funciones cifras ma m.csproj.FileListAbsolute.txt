@@ -1,0 +1,6 @@
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones cifras ma m\47 funciones cifras ma m\bin\Debug\47 funciones cifras ma m.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones cifras ma m\47 funciones cifras ma m\bin\Debug\47 funciones cifras ma m.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones cifras ma m\47 funciones cifras ma m\bin\Debug\47 funciones cifras ma m.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones cifras ma m\47 funciones cifras ma m\obj\Debug\47 funciones cifras ma m.csprojResolveAssemblyReference.cache
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones cifras ma m\47 funciones cifras ma m\obj\Debug\47 funciones cifras ma m.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\47 funciones cifras ma m\47 funciones cifras ma m\obj\Debug\47 funciones cifras ma m.pdb

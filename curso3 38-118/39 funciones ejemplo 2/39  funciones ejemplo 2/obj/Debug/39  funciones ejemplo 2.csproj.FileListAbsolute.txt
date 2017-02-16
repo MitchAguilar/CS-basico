@@ -1,0 +1,6 @@
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\39  funciones ejemplo 2\39  funciones ejemplo 2\bin\Debug\39  funciones ejemplo 2.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\39  funciones ejemplo 2\39  funciones ejemplo 2\bin\Debug\39  funciones ejemplo 2.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\39  funciones ejemplo 2\39  funciones ejemplo 2\bin\Debug\39  funciones ejemplo 2.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\39  funciones ejemplo 2\39  funciones ejemplo 2\obj\Debug\39  funciones ejemplo 2.csprojResolveAssemblyReference.cache
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\39  funciones ejemplo 2\39  funciones ejemplo 2\obj\Debug\39  funciones ejemplo 2.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\39  funciones ejemplo 2\39  funciones ejemplo 2\obj\Debug\39  funciones ejemplo 2.pdb

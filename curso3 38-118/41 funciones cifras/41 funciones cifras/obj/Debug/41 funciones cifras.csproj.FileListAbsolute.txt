@@ -1,0 +1,6 @@
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\41 funciones cifras\41 funciones cifras\bin\Debug\41 funciones cifras.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\41 funciones cifras\41 funciones cifras\bin\Debug\41 funciones cifras.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\41 funciones cifras\41 funciones cifras\bin\Debug\41 funciones cifras.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\41 funciones cifras\41 funciones cifras\obj\Debug\41 funciones cifras.csprojResolveAssemblyReference.cache
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\41 funciones cifras\41 funciones cifras\obj\Debug\41 funciones cifras.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso3 38-118\41 funciones cifras\41 funciones cifras\obj\Debug\41 funciones cifras.pdb

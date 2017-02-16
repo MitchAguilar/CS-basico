@@ -1,0 +1,12 @@
+c:\users\master madi\documents\visual studio 2015\Projects\curso1\curso1\bin\Debug\curso1.exe.config
+c:\users\master madi\documents\visual studio 2015\Projects\curso1\curso1\bin\Debug\curso1.exe
+c:\users\master madi\documents\visual studio 2015\Projects\curso1\curso1\bin\Debug\curso1.pdb
+c:\users\master madi\documents\visual studio 2015\Projects\curso1\curso1\obj\Debug\curso1.csprojResolveAssemblyReference.cache
+c:\users\master madi\documents\visual studio 2015\Projects\curso1\curso1\obj\Debug\curso1.exe
+c:\users\master madi\documents\visual studio 2015\Projects\curso1\curso1\obj\Debug\curso1.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso1\curso1\bin\Debug\curso1.exe.config
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso1\curso1\obj\Debug\curso1.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso1\curso1\obj\Debug\curso1.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso1\curso1\bin\Debug\curso1.exe
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso1\curso1\bin\Debug\curso1.pdb
+C:\Users\MASTER MADI\OneDrive - Universidad de la Amazonia\SOLUCIÓN DE TUTORIALES\CS PURO\curso1\curso1\obj\Debug\curso1.csprojResolveAssemblyReference.cache
